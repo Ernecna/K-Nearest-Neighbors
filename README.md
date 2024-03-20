@@ -1,6 +1,3 @@
-
-Certainly! Here's a README template for a project involving Diabetes Prediction using the K-Nearest Neighbors (KNN) algorithm. Feel free to adjust the content to fit the specifics of your project.
-
 Diabetes Prediction Using K-Nearest Neighbors (KNN)
 Overview
 This project aims to predict diabetes presence in individuals using the K-Nearest Neighbors (KNN) algorithm, a straightforward yet powerful machine learning technique. The dataset originates from the National Institute of Diabetes and Digestive and Kidney Diseases and involves health-related attributes of Pima Indian women.
